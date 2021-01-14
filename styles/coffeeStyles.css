@@ -1,0 +1,17 @@
+/*Cafe Villano CSS Styles */
+
+
+body {
+    background-color: #59534C;
+}
+
+div {
+    margin: auto;
+    width: 700px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #ffffff;
+    background-color: white;
+}
+
+
